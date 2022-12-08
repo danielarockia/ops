@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/danielarockia/ops.git
     targetRevision: HEAD
-    path: dev
+    path: template
   destination: 
     server: https://kubernetes.default.svc
     namespace: myapp
